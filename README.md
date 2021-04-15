@@ -9,8 +9,8 @@
 
 ### Github Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skwcrd&show_icons=true)](https://github.com/skwcrd)
 [![Sukawit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=skwcrd&show_icons=true)](https://github.com/skwcrd)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skwcrd&show_icons=true)](https://github.com/skwcrd)
 
 ---
 
