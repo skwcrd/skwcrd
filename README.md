@@ -4,12 +4,17 @@
 - 👀 I'm interested in Artificial Intelligence and Robotics.
 - 🌱 I'm currently learning Full Stack and DevOps Development.
 - 💞️ I'm looking to collaborate on company working about Artificial Intelligence (AI), Internet of Thing (IoT) or Robotics.
+- 📫 How to reach me:
+
+[![Github](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg)](https://github.com/skwcrd)
+[![Linkdein](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://www.linkedin.com/in/skwcrd)
 
 ---
 
 ### Github Stats
 
 [![Sukawit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=skwcrd&show_icons=true)](https://github.com/skwcrd)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skwcrd&show_icons=true&layout=compact)](https://github.com/skwcrd)
 
 ---
 
