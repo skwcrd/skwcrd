@@ -1,8 +1,8 @@
 ## Hi there 👋 I'm [Sukawit Charoendet](https://github.com/skwcrd)
 
-### 👨🏻•💻 About Me
+### 👨🏻💻 About Me
 - 👀 I’m interested in Artificial Intelligence and Robotics.
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Full Stack and DevOps Development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
